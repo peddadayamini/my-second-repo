@@ -1,9 +1,9 @@
-<Doctype html>
+<!Doctype html>
 <html>
 <head>
 <title>index</title>
 </head>
 <body>
-<hello world>
+hello world
 </body>
 </html>
